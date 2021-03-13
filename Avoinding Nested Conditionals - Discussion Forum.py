@@ -1,3 +1,6 @@
+"""
+@Author:Victor Hugo de Barros
+"""
 #Example of avoinding, Nested Conditionals.
 #[...]Instead as mentioned before, we can simply inputting some relational operators,
 #[...]Boolean Expression and logical operators in one branch, instead creating many.
