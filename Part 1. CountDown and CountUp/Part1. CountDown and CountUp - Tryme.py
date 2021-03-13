@@ -1,3 +1,6 @@
+"""
+@Author:Victor Hugo de Barros
+"""
 def my_function(n):
     if n == 0:
         print('Blastoff!')
